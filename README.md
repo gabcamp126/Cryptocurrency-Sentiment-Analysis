@@ -1,7 +1,3 @@
-# Cryptocurrency Sentiment Analysis
-
-![Cryptocurrency Sentiment Analysis](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Screenshots/cover.jpg)
-
 ## PROJECT SUMMARY
 
 The aim of this project is to produce a Twitter Sentiment Analysis on the cryptocurrency market. With the rise in popularity of Bitcoin and Ethereum and the majority of  businesses moving to the web3.0 it is important to understand how the consumer actually feels about this change.
@@ -34,10 +30,6 @@ We all know that decentralization and web3.0 has had an effect on a number of ar
 In this project the  negative tweet was assigned a sentiment score of  1. Similarly 2 was assigned to neutral and 3 to positive.
 
 
-## Result 
-
-![Histogram showing the `Sentiment Scores` plotted against `The Number of Tweets` ](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Result.png)
-
 Here, the `Sentiment Scores` have been plotted against `The Number Of Tweets`.
 
 - X-axis:- Sentiment Scores
@@ -45,9 +37,6 @@ Here, the `Sentiment Scores` have been plotted against `The Number Of Tweets`.
 
 The histogram plotted showed that most of the tweets had a score of 3.
 
-## Authors
-
-- [@Satarupa22-SD](https://github.com/Satarupa22-SD)
 
 
 ## References
